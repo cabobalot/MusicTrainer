@@ -8,5 +8,7 @@ public class Main {
 		
 		Window.conjureTheGUIMonster();
 		
+		Window.
+		
 	}
 }
